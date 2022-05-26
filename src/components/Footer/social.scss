@@ -1,0 +1,13 @@
+.social {
+  color: white;
+  height: 2.5rem;
+  width: 2.5rem;
+
+  cursor: pointer;
+
+  transition: var(--tr);
+
+  &:hover {
+    color: var(--color-primary-cyan);
+  }
+}
