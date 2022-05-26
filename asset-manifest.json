@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/carlson142/shorthand/static/css/main.e475a499.css",
-    "main.js": "/carlson142/shorthand/static/js/main.d6693150.js",
-    "static/media/illustration-working.svg": "/carlson142/shorthand/static/media/illustration-working.c9b5ef5452363d8be3df709375d50bd0.svg",
-    "static/media/logo.svg": "/carlson142/shorthand/static/media/logo.834643034343520f3b4d7e43111ed4d8.svg",
-    "static/media/logo-footer.svg": "/carlson142/shorthand/static/media/logo-footer.d37cd7a3930aabd45f80de0f58605b22.svg",
-    "static/media/icon-fully-customizable.svg": "/carlson142/shorthand/static/media/icon-fully-customizable.a1532a74fa781f6fde327313bd5ffce3.svg",
-    "static/media/icon-brand-recognition.svg": "/carlson142/shorthand/static/media/icon-brand-recognition.c349d3b69f7442e5ac3552e4138e72e7.svg",
-    "static/media/bg-boost-desktop.svg": "/carlson142/shorthand/static/media/bg-boost-desktop.772154c9b0e451733f5ef5a737ffe720.svg",
-    "static/media/icon-detailed-records.svg": "/carlson142/shorthand/static/media/icon-detailed-records.265c8aea77b546e08ba3575f6a8a9f70.svg",
-    "index.html": "/carlson142/shorthand/index.html",
-    "static/media/bg-shorten-desktop.svg": "/carlson142/shorthand/static/media/bg-shorten-desktop.0d9742f433f4b0d8752b40ccf28727af.svg",
-    "main.e475a499.css.map": "/carlson142/shorthand/static/css/main.e475a499.css.map",
-    "main.d6693150.js.map": "/carlson142/shorthand/static/js/main.d6693150.js.map"
+    "main.css": "/shorthand/static/css/main.e475a499.css",
+    "main.js": "/shorthand/static/js/main.b58a1fcb.js",
+    "static/media/illustration-working.svg": "/shorthand/static/media/illustration-working.c9b5ef5452363d8be3df709375d50bd0.svg",
+    "static/media/logo.svg": "/shorthand/static/media/logo.834643034343520f3b4d7e43111ed4d8.svg",
+    "static/media/logo-footer.svg": "/shorthand/static/media/logo-footer.d37cd7a3930aabd45f80de0f58605b22.svg",
+    "static/media/icon-fully-customizable.svg": "/shorthand/static/media/icon-fully-customizable.a1532a74fa781f6fde327313bd5ffce3.svg",
+    "static/media/icon-brand-recognition.svg": "/shorthand/static/media/icon-brand-recognition.c349d3b69f7442e5ac3552e4138e72e7.svg",
+    "static/media/bg-boost-desktop.svg": "/shorthand/static/media/bg-boost-desktop.772154c9b0e451733f5ef5a737ffe720.svg",
+    "static/media/icon-detailed-records.svg": "/shorthand/static/media/icon-detailed-records.265c8aea77b546e08ba3575f6a8a9f70.svg",
+    "index.html": "/shorthand/index.html",
+    "static/media/bg-shorten-desktop.svg": "/shorthand/static/media/bg-shorten-desktop.0d9742f433f4b0d8752b40ccf28727af.svg",
+    "main.e475a499.css.map": "/shorthand/static/css/main.e475a499.css.map",
+    "main.b58a1fcb.js.map": "/shorthand/static/js/main.b58a1fcb.js.map"
   },
   "entrypoints": [
     "static/css/main.e475a499.css",
-    "static/js/main.d6693150.js"
+    "static/js/main.b58a1fcb.js"
   ]
 }
