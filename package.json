@@ -2,7 +2,7 @@
   "name": "url-short",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/carlson142/shorthand",
+  "homepage": "https://carlson142.github.io/shorthand",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
     "@testing-library/jest-dom": "^5.16.4",
